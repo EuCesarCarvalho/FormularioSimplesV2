@@ -1,0 +1,19 @@
+/* css do topo  */
+.topo{
+    background-color: #1cf1ce;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+/* css do footer */
+.rodape{
+    background-color: #1cf1ce;
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
